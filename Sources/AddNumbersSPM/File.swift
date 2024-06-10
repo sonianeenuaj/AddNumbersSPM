@@ -7,7 +7,7 @@
 
 import Foundation
 
-public class AddNumbers {
+public class AddNumbersSPM {
     
     public static func add(_ a: Int, _ b: Int) -> Int {
             return a + b
